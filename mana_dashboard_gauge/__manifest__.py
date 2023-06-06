@@ -26,7 +26,7 @@
 
     'category': 'Apps/Dashboards',
     'version': '16.0.0.1',
-    'license': 'OPPL-1'
+    'license': 'OPPL-1',
 
     'depends': ['base', 'mana_dashboard'],
 
