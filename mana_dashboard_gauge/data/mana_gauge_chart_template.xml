@@ -33,7 +33,7 @@ let aggregate_value1 = data_source1.get_first_aggregate_column_value()
 let aggregate_value2 = data_source2.get_first_aggregate_column_value()
 
 // calculate percent
-let percent_value = aggregate_value1 / aggregate_value2 * 100
+let percent_value = aggregate_value2 / aggregate_value1 * 100
 
 // set option
 let option =  {

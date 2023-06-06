@@ -31,12 +31,12 @@
     'depends': ['base', 'mana_dashboard'],
 
     'data': [
-        'data/mana_dashboard_gauge_data.xml',
+        'data/mana_gauge_chart_template.xml',
     ],
 
     'assets': {
         'web.assets_backend': [
-            "/mana_dashboard/static/js/mana_gauge_chart.js",
+            "/mana_dashboard_gauge/static/js/mana_gauge_chart.js",
         ]
     }
 }

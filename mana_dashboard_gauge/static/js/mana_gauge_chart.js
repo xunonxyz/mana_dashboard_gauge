@@ -1,4 +1,4 @@
-odoo.define('mana_dashboard.gauge_chart', function (require) {
+odoo.define('mana_dashboard_gauge.gauge_chart', function (require) {
     "use strict";
 
     var BlockRegistry = require('mana_dashboard.block_registry');

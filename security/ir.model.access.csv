@@ -1,2 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_mana_dashboard_gauge_mana_dashboard_gauge,mana_dashboard_gauge.mana_dashboard_gauge,model_mana_dashboard_gauge_mana_dashboard_gauge,base.group_user,1,1,1,1
