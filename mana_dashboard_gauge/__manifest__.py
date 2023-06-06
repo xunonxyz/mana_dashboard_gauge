@@ -29,6 +29,7 @@
     'license': 'OPL-1',
 
     'depends': ['base', 'mana_dashboard'],
+    'images': ['static/description/banner.png'],
 
     'data': [
         'data/mana_gauge_chart_template.xml',
