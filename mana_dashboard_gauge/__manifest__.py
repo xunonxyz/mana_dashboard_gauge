@@ -27,6 +27,7 @@
     'category': 'Apps/Dashboards',
     'version': '16.0.0.1',
     'license': 'OPL-1',
+    'price': 10.00,
 
     'depends': ['base', 'mana_dashboard'],
     'images': ['static/description/banner.png'],
